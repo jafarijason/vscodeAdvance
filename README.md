@@ -17,6 +17,10 @@ Press "ctrl+alt+z" to increase the transparency, "ctrl+alt+c" to decrease.
 shift +  delete => for delete gap
 
 ///----
+arduino 
+c++
+python
+
 extention
 advanced-new-file
 Auto Rename Tag
@@ -38,6 +42,9 @@ JavaScript (ES6) code snippets
 
 
 Settings Sync
+Turbo Console Log
+indent-rainbow
+Bracket Pair Colorizer
 
 
 
