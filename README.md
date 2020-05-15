@@ -1,20 +1,21 @@
 
 //--------------
-font  : FIRA CODE or Space Mono
+font  :   Space Mono
 
 ctrl shift p :users  => open prefrences: open users setting=>
 Editor font Family
 //---
 
 
-theme:
+theme:Material Icon Theme  ,Material Theme
+ 
 
-Material Icon Theme
+transparency : GlassIt-VSC
+Press "ctrl+alt+z" to increase the transparency, "ctrl+alt+c" to decrease.
 
-Material Theme
+///-----
+shift +  delete => for delete gap
 
-
-Palenight Theme
-
-Night Owl
-
+///----
+extention
+advanced-new-file
