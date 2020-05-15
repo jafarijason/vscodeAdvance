@@ -31,6 +31,15 @@ Todo Tree
 
 Live Server
 HTML Preview
+IntelliSense for CSS class names in HTML
+ 
+
+JavaScript (ES6) code snippets
+
+
+Settings Sync
+
+
 
 
 
