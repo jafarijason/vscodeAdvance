@@ -20,3 +20,10 @@ shift +  delete => for delete gap
 extention
 advanced-new-file
 Auto Rename Tag
+Color Highlight
+Path Intellisense
+
+Polacode => ok
+ 
+SVG Viewer
+
