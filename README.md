@@ -19,3 +19,4 @@ shift +  delete => for delete gap
 ///----
 extention
 advanced-new-file
+Auto Rename Tag
