@@ -47,6 +47,9 @@ indent-rainbow
 Bracket Pair Colorizer
 
 
+GitLens
+
+
 
 
 
